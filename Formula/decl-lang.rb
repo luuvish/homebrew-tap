@@ -9,9 +9,9 @@
 # copy here is kept the same by that job.
 class DeclLang < Formula
   desc "Declarative language for describing, generating, and validating structured data"
-  homepage "https://luuvish.github.io/decl-lang/"
-  url "https://registry.npmjs.org/decl-lang/-/decl-lang-0.3.0.tgz"
-  sha256 "92a11221732e3a00a4f41c70b193c1015c3388f7818e8a891f9e127431664fd0"
+  homepage "https://decl-lang.org/"
+  url "https://registry.npmjs.org/decl-lang/-/decl-lang-0.4.0.tgz"
+  sha256 "69872242085a0cc47d06a66188e183c5707de6be5911deff5b83c49e9cfdda8a"
   license "MIT"
 
   depends_on "node"
